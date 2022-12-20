@@ -1,2 +1,2 @@
-java -jar target/eureka-0.0.1-SNAPSHOT.jar
+java -jar bin/eureka-0.0.1-SNAPSHOT.jar
 pause
