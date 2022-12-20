@@ -1,0 +1,9 @@
+
+User accounts for \\HOME-PC
+
+-------------------------------------------------------------------------------
+Administrator            DefaultAccount           Guest                    
+Kirill                   Oleg                     WDAGUtilityAccount       
+?????????                
+The command completed successfully.
+
